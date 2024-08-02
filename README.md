@@ -6,7 +6,7 @@ I read a lot of books, so I made a website to keep track of the books that I rea
 Link to project: https://hsbookslist.netlify.app/
 
 
-### Tech used: Astro, Javascript, CSS
+### Tech used: HTML, CSS, Javascript
 
 
 
